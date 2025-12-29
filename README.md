@@ -79,5 +79,3 @@ Gradient Boosting achieved the best overall performance, showing strong predicti
 
 ---
 
-## Files
-
