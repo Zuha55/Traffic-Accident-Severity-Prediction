@@ -79,13 +79,12 @@ Gradient Boosting achieved the best overall performance, showing strong predicti
 
 ---
 ## Future Improvement
-- Hyperparameter tuning to improve model performance.
+-Hyperparameter tuning (Grid Search, Randomized Search, Bayesian Optimization) to boost model accuracy.
 
-- Advanced feature engineering with temporal, geospatial, and interaction features.
+-Advanced feature engineering: interaction features, temporal patterns, and geospatial insights.
 
-- Explore lightweight imbalance handling techniques and ensemble models.
+-Lightweight imbalance handling techniques and ensemble methods for improved minority class prediction.
 
-- Optimize classification thresholds and improve model interpretability using SHAP.
+-Classification threshold optimization and model interpretability using SHAP.
 
-- Enhance scalability and efficiency for large datasets.
-
+-Optimize scalability and efficiency for large datasets.
